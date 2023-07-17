@@ -1,6 +1,5 @@
 # My-First-Steps
-my first steps using the java programming language
-public class Main {
+
 
 	public static void main(String[] args) {
 	// this is a comment
